@@ -14,3 +14,9 @@
 
 # Simulink Code Generation
 slprj/
+
+# Ignore data and output files
+*.mat
+*.xls
+*.xlsx
+*.pdf
